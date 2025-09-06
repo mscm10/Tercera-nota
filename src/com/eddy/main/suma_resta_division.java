@@ -21,6 +21,7 @@ public class suma_resta_division {
         System.out.println("Multiplicación: " + multiplicacion);
         System.out.println("División: " + division);
         System.out.println("Módulo: " + modulo);
+        scanner.close();
     }
 }
 
